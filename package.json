@@ -1,0 +1,16 @@
+{
+  "name": "sniffer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/server.js",
+  "scripts": {
+    "start": "node .",
+    "build": "tsc"
+  },
+  "author": "dontroll17",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.8.5",
+    "typescript": "^4.8.4"
+  }
+}
